@@ -32,15 +32,17 @@ This is the color purple: `rgb(255, 0, 255)`
 
 ## Links
 
-Don't go to this [link](https://www.kualo.co.uk/404)!
+Don't go to this [link](https://www.kualo.co.uk/404)![^1]
 
 ## Checklist
 
-[x] Eat
-[x] Sleep 
-[ ] ***EXTREME*** amounts of programming
-[ ] Repeat
+- [x] Eat
+- [x] Sleep 
+- [ ] ***EXTREME*** amounts of programming
+- [ ] Repeat
 
 ## Pictures
 
 ![Midvale School For the Gifted](/farside.jpg)
+
+[^1]: Will not harm anyone who visits this link.
